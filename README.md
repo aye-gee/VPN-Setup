@@ -1,4 +1,4 @@
-<h2>👨‍💻 VPN Setup</h2>
+<h2>👨‍💻 Virtual Private Network (VPN) Setup</h2>
 
 ## Objective
 
